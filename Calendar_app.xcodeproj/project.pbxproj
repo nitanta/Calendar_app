@@ -51,6 +51,7 @@
 		501F07382AA09B9400E982BE /* Calendar_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Calendar_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		501F073C2AA09B9400E982BE /* Calendar_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar_appUITests.swift; sourceTree = "<group>"; };
 		501F073E2AA09B9400E982BE /* Calendar_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calendar_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		501F074B2AA09BA100E982BE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +82,7 @@
 		501F070C2AA09B9100E982BE = {
 			isa = PBXGroup;
 			children = (
+				501F074B2AA09BA100E982BE /* README.md */,
 				501F07172AA09B9100E982BE /* Calendar_app */,
 				501F07312AA09B9400E982BE /* Calendar_appTests */,
 				501F073B2AA09B9400E982BE /* Calendar_appUITests */,
