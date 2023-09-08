@@ -9,3 +9,9 @@ Sample app showcasing the use of UICalendarView
 ## Conclusion
 
 1. Very much limited to what the calendar can do
+
+UISearchToken
+
+1. iOS 13.0+
+https://developer.apple.com/documentation/uikit/view_controllers/using_suggested_searches_with_a_search_controller
+
